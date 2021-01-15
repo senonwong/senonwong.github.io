@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://senonwong.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-12T15:00:48.679Z</updated>
+    <updated>2021-01-15T13:51:09.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://senonwong.github.io"/>
     <link rel="self" href="https://senonwong.github.io/atom.xml"/>
@@ -11,13 +11,13 @@
     <icon>https://senonwong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Everyone]]></title>
+        <title type="html"><![CDATA[Hi ~]]></title>
         <id>https://senonwong.github.io/post/hello-gridea/</id>
         <link href="https://senonwong.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
+        <content type="html"><![CDATA[<p>人生而自由</p>
+<p>却无往不在枷锁中</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
